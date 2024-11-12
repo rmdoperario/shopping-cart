@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CartItem = ({ item, onIncrease, onDecrease }) => (
-  <div className="flex items-center justify-between bg-white rounded-md p-2 shadow-sm">
+  <div className="flex items-center justify-between bg-gray-300 rounded-md p-2 shadow-sm">
     <img src={item.images[0]} alt={item.title} className="h-10 w-10 object-cover rounded mr-2" />
     <p className="flex-1 text-gray-700 text-sm">{item.title}</p>
     <div className="flex items-center space-x-2">
