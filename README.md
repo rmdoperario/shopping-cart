@@ -10,7 +10,8 @@ Currently, two official plugins are available:
 # Shopping Cart:
 
 ## Description:
-A shopping cart application built with React and Vite. It allows users to browse products, add them to the cart, update item quantities, and proceed to checkout.
+
+A simple shopping cart app interface displaying various clothing items with options to add them to the cart and view the cart's total with tax included, made in by vite js react.
 
 ## Libraries Used:
 ```plaintext
@@ -29,4 +30,4 @@ A shopping cart application built with React and Vite. It allows users to browse
 ```
 
 # Image of the Shopping Cart:
-![image](https://github.com/user-attachments/assets/26c0e81b-326f-4948-81d9-ebe40dc5122c)
+![image](https://github.com/user-attachments/assets/9d3e5196-a442-4361-9198-756b7ac002b1)
